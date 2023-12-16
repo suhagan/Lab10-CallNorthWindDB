@@ -1,0 +1,59 @@
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Lab10 Call NorthWindDB
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Lab10 Call NorthWindDB.deps.json
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Lab10 Call NorthWindDB.runtimeconfig.json
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Lab10 Call NorthWindDB.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Lab10 Call NorthWindDB.pdb
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Humanizer.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/obj/Debug/net6.0/Lab10 Call NorthWindDB.csproj.AssemblyReference.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/obj/Debug/net6.0/Lab10 Call NorthWindDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/obj/Debug/net6.0/Lab10 Call NorthWindDB.AssemblyInfoInputs.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/obj/Debug/net6.0/Lab10 Call NorthWindDB.AssemblyInfo.cs
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/obj/Debug/net6.0/Lab10 Call NorthWindDB.csproj.CoreCompileInputs.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/obj/Debug/net6.0/Lab10 Call NorthWindDB.csproj.CopyComplete
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/obj/Debug/net6.0/Lab10 Call NorthWindDB.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/obj/Debug/net6.0/refint/Lab10 Call NorthWindDB.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/obj/Debug/net6.0/Lab10 Call NorthWindDB.pdb
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/obj/Debug/net6.0/Lab10 Call NorthWindDB.genruntimeconfig.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab-10-CallNorthWindDB/Lab10 Call NorthWindDB/obj/Debug/net6.0/ref/Lab10 Call NorthWindDB.dll
